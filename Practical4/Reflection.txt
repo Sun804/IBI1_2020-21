@@ -1,0 +1,1 @@
+There is something difficult when doing this practical which nearly makes me crazy. However, with the help of classmates and teachers, I finally finish the goal. I think coding the directory from the browser is the most challenging because too many classmates do this in the meantime. Now I don not understand the meaning of something in commands like "main"and "master"
