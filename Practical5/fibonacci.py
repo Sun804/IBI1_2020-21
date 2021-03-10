@@ -3,6 +3,8 @@ a=1
 b=1
 i=1
 i+=1
-for i in range(1,12):
+print(a)
+print(b)
+for i in range(0,11):
     a,b=b,a+b
     print(b)
